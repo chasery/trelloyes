@@ -1,4 +1,4 @@
-const STORE = {
+export default {
   lists: [
     {
       id: "1",
